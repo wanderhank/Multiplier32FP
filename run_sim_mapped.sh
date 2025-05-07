@@ -1,0 +1,1 @@
+xrun -64bit   fast_vdd1v2_basicCells.v mapped/multiplier32FP_mapped.sv multiplier32FP_tb.sv -access +rwc -gui
